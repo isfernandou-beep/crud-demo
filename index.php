@@ -1,3 +1,12 @@
+<?php
+
+require 'vendor/autoload.php';
+
+use Carbon\Carbon;
+
+echo "Fecha actual: " . Carbon::now();
+
+?>
 <!DOCTYPE html>
 <html>
 <head>

@@ -14,7 +14,7 @@ echo "Fecha actual: " . Carbon::now();
 </head>
 <body>
 
-    <h2>Registrar Usuario</h2>
+    <h2>Registrar Monosilabas</h2>
 
     <form action="guardar.php" method="POST">
 
@@ -29,7 +29,7 @@ echo "Fecha actual: " . Carbon::now();
     </form>
     <hr>
 
-        <h2>Usuarios Registrados</h2>
+        <h2>Monosilabas Registradas</h2>
 
         <?php
 
